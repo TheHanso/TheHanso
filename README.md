@@ -1,3 +1,2 @@
-### Hi there 👋, I am TheHanso
-#### I want to be a software engineer one day :D
-At the moment I am working for a housing company in Berlin. But as I said I want to be a software engineer one day.
+Hello, my name is Tilman,
+One day I will be a software engineer, but in the meantime I just work on my little projects. 
